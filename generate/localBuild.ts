@@ -53,7 +53,7 @@ async function main() {
 
 	const videoMode = 'brainrot' as VideoMode;
 	const agentA = 'BARACK_OBAMA';
-	const agentB = 'JORDAN_PETERSON';
+	const agentB = 'DONALD_TRUMP';
 	const outputType = 'audio' as 'audio' | 'video';
 	const songName = 'Family Matters';
 	const artistName = 'Drake';
